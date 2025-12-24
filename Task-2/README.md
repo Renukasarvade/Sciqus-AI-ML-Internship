@@ -1,4 +1,4 @@
-# AI Task 2 – Model Evaluation Analysis
+# AI/ML Task 2 – Model Evaluation Analysis
 
 This folder contains Task 2 of the AI/ML internship assignment.
 
